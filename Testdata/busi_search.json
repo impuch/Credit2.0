@@ -1,0 +1,16 @@
+
+{
+  "criteria": {
+    "businessName": "auto",
+    "geography": "Clarinda, IA",
+    "inBusiness": [
+      "yes",
+      "no",
+      "maybe",
+      "junk"
+    ]
+  },
+  "page": 1,
+  "recordsPerPage": 10,
+  "sort": "businessName"
+}
